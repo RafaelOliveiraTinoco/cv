@@ -1,2 +1,11 @@
-# Bem vindo ao meu website pessoal
-url -> https://rafaeloliveiratinoco.github.io/pagina-pessoal
+# Bem vindo ao repositório do meu website
+Este website tem o intuito de mostrar:
+* Projetos desenvolvidos
+* Resumo
+* Habilitações
+* Hobbies e interesses
+* Linguagens
+* Qualidades pessoais
+* Informações de contacto
+
+Meu Website: https://rafaeloliveiratinoco.github.io/pagina-pessoal
