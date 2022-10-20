@@ -4,7 +4,6 @@ Este website tem o intuito de mostrar:
 * Resumo
 * Habilitações
 * Hobbies e interesses
-* Linguagens
 * Qualidades pessoais
 * Informações de contacto
 
